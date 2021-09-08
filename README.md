@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-Interested in way too many things, but most notably Javascript, Solidity and web development.
+My name's John.
+Interested in way too many things, but most notably javascript, solidity and web development.
