@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-# My name's John
-
-I'm a Javascript full-stack enginner.
+Interested in way too many things, but most notably Javascript, Solidity and web development.
